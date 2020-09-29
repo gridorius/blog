@@ -2,7 +2,9 @@
   "name": "blog",
   "version": "1.0.0",
   "dependencies": {
+    "config": "^3.3.2",
     "express": "^4.16.4",
+    "express-handlebars": "^5.1.0",
     "hbs": "^4.1.1",
     "mongoose": "^5.10.7"
   }
